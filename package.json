@@ -1,0 +1,12 @@
+{
+  "name": "xlsx-to-xml-converter",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "xlsx": "^0.18.5"
+  }
+}
